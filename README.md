@@ -2,7 +2,7 @@
 
 ## SISTEMA OPERACIONAL EM QUE FOI PROJETADO OS ARQUIVOS:
 
-WINDOWS ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0) versão 10+
 
 ### PASSO A PASSO DE COMO INSTALAR
 
